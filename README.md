@@ -32,7 +32,7 @@ Soy estudiante de **Ciencias de la Computación** en la **Universidad Nacional d
 ![GitHub stats](https://github-stats-extended.vercel.app/api?username=DireEspinalP&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=DireEspinalP&layout=compact&theme=tokyonight&hide_border=true)
 
-
+![Snake animation](https://raw.githubusercontent.com/DireEspinalP/DireEspinalP/output/github-snake-dark.svg)
 
 
 <h4> Otras herramientas y tecnologías </h4>
