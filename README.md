@@ -1,17 +1,18 @@
-<h1 align="center"><b>Hola, soy Dire Daniel </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hola, soy Dire Daniel </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+
 <!--  -->
-<img align="right" width=300px alt="Unicorn" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGY5bmY2bWFiZHJ3ZmU0OXdnbGd5NGZydHY2NGl5MjR4Nzhzamc3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lRLzrbhmh5pFf4jOga/giphy.gif" />
+<img align="right" width=350px alt="Unicorn" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGY5bmY2bWFiZHJ3ZmU0OXdnbGd5NGZydHY2NGl5MjR4Nzhzamc3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lRLzrbhmh5pFf4jOga/giphy.gif" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Acerca de mí***
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDM5bDhqZ3l1MHB2ZmY3azZlazlmanprYzE5NXJsZ2cxa2dzeDZpZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VfrLCmybNyDcVc5lfU/giphy.gif" width="40px">&nbsp;***Acerca de mí***
 
-Soy estudiante de Ciencias de la Computación en la Universidad Nacional de Ingeniería (UNI) de <img src="https://flagcdn.com/w40/pe.png" alt="Peru" width="20"/> Peru, y actualmente estoy en mi primer de la carrera. En este momento estoy profundizando mis conocimientos sobre programación, algoritmos, estructuras de datos y fundamentos de las ciencias de la computación, desarrollando habilidades que me permitirán seguir creciendo académica y profesionalmente. Me motiva aprender constantemente, enfrentar nuevos retos y participar en proyectos que me ayuden a mejorar como futuro profesional.
+Soy estudiante de **Ciencias de la Computación** en la **Universidad Nacional de Ingeniería** (UNI) de <img src="https://flagcdn.com/w40/pe.png" alt="Peru" width="20"/> Peru, y actualmente estoy en mi SEGUNDO CICLO de la carrera. En este momento estoy profundizando mis conocimientos sobre programación, algoritmos, estructuras de datos y fundamentos de las ciencias de la computación, desarrollando habilidades que me permitirán seguir creciendo académica y profesionalmente. Me motiva aprender constantemente, enfrentar nuevos retos y participar en proyectos que me ayuden a mejorar como futuro profesional.
 
 
 -🎓 Soy estudiante de Ciencias de la Computación en la Universidad Nacional de Ingeniería (UNI), Peru.
 
 -🌱 Actualmente estoy profundizando mis conocimientos sobre programación, y fundamentos de las ciencias de la computación.
 
--💻 Me interesa  el ambito de Ciencia de datos y Ciberseguirdad. Me gusta mejorar continuamente mis habilidades técnicas a través del aprendizaje y de proyectos personales.
+-💻 Me interesa  el ambito de **Ciencia de datos y Ciberseguridad**. Me gusta mejorar continuamente mis habilidades técnicas a través del aprendizaje y de proyectos personales.
 
 -🤝 Espero poder colaborar en proyectos de código abierto y aprender de la comunidad de desarrolladores.
 
