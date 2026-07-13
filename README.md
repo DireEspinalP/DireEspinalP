@@ -7,19 +7,6 @@
 
 Soy estudiante de **Ciencias de la Computación** en la **Universidad Nacional de Ingeniería** (UNI) de <img src="https://flagcdn.com/w40/pe.png" alt="Peru" width="20"/> Peru, y actualmente estoy en mi SEGUNDO CICLO de la carrera. En este momento estoy profundizando mis conocimientos sobre programación, algoritmos, estructuras de datos y fundamentos de las ciencias de la computación, desarrollando habilidades que me permitirán seguir creciendo académica y profesionalmente. Me motiva aprender constantemente, enfrentar nuevos retos y participar en proyectos que me ayuden a mejorar como futuro profesional.
 
-
--🎓 Soy estudiante de Ciencias de la Computación en la Universidad Nacional de Ingeniería (UNI), Peru.
-
--🌱 Actualmente estoy profundizando mis conocimientos sobre programación, y fundamentos de las ciencias de la computación.
-
--💻 Me interesa  el ambito de **Ciencia de datos y Ciberseguridad**. Me gusta mejorar continuamente mis habilidades técnicas a través del aprendizaje y de proyectos personales.
-
--🤝 Espero poder colaborar en proyectos de código abierto y aprender de la comunidad de desarrolladores.
-
--🚀 Me gusta resolver problemas, explorar nuevas tecnologías y crear proyectos que me ayuden a crecer como futuro ingeniero de software.
-
--📚 Además de programar, me gusta leer sobre tecnología, aprender nuevos conceptos, escuchar música y jugar videojuegos.
-
 ## Mis habilidades incluyen
 
 <h4> Lenguajes </h4>
