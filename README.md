@@ -5,7 +5,7 @@
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDM5bDhqZ3l1MHB2ZmY3azZlazlmanprYzE5NXJsZ2cxa2dzeDZpZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VfrLCmybNyDcVc5lfU/giphy.gif" width="40px">&nbsp;***Acerca de mí***
 
-Soy estudiante de **Ciencias de la Computación** en la **Universidad Nacional de Ingeniería** (UNI) de <img src="https://flagcdn.com/w40/pe.png" alt="Peru" width="20"/> Peru, y actualmente estoy en mi TERCER CICLO de la carrera. En este momento estoy profundizando mis conocimientos sobre programación, algoritmos, estructuras de datos y fundamentos de las ciencias de la computación, desarrollando habilidades que me permitirán seguir creciendo académica y profesionalmente. Me motiva aprender constantemente, enfrentar nuevos retos y participar en proyectos que me ayuden a mejorar como futuro profesional.
+Soy estudiante de **Ciencias de la Computación** en la **Universidad Nacional de Ingeniería** (UNI) de <img src="https://flagcdn.com/w40/pe.png" alt="Peru" width="20"/> Peru, y actualmente estoy en mi TERCER CICLO de la carrera. En este momento estoy profundizando mis conocimientos sobre programación y fundamentos de las ciencias de la computación, desarrollando habilidades que me permitirán seguir creciendo académica y profesionalmente. Me motiva aprender constantemente, enfrentar nuevos retos y participar en proyectos que me ayuden a mejorar como futuro profesional.
 
 ## Mis habilidades incluyen
 
