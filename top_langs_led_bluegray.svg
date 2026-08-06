@@ -1,0 +1,78 @@
+<svg width="340" height="200" viewBox="0 0 340 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050810"/>
+      <stop offset="50%" stop-color="#0b0f1f"/>
+      <stop offset="100%" stop-color="#050810"/>
+    </linearGradient>
+
+    <linearGradient id="ledBorder2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8a94a6">
+        <animate attributeName="stop-color" values="#8a94a6;#00c8ff;#0047ab;#8a94a6" dur="4.5s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#0047ab">
+        <animate attributeName="stop-color" values="#0047ab;#8a94a6;#00c8ff;#0047ab" dur="4.5s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#00c8ff">
+        <animate attributeName="stop-color" values="#00c8ff;#0047ab;#8a94a6;#00c8ff" dur="4.5s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <filter id="glow2" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glowSoft2" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="1.1" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect x="3" y="3" width="334" height="194" rx="14" fill="url(#bg2)"/>
+  <rect x="3" y="3" width="334" height="194" rx="14" fill="none" stroke="url(#ledBorder2)" stroke-width="6" filter="url(#glow2)" opacity="0.5"/>
+  <rect x="3" y="3" width="334" height="194" rx="14" fill="none" stroke="url(#ledBorder2)" stroke-width="2.2"/>
+
+  <text x="24" y="34" font-family="'Courier New', Consolas, monospace" font-weight="bold"
+        font-size="15.5" letter-spacing="1" fill="#00c8ff" filter="url(#glowSoft2)">
+    MOST USED LANGUAGES
+    <animate attributeName="fill" values="#00c8ff;#c9d1f0;#00c8ff" dur="3s" repeatCount="indefinite"/>
+  </text>
+  <rect x="24" y="42" width="150" height="2.5" fill="#8a94a6" filter="url(#glowSoft2)">
+    <animate attributeName="width" values="150;185;150" dur="3s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Barra segmentada: tonos azul oscuro -> gris -> azul claro -->
+  <g transform="translate(24,58)">
+    <rect x="0" y="0" width="292" height="14" rx="7" fill="#12162a"/>
+    <rect x="0"   y="0" width="86" height="14" rx="7" fill="#0047ab" filter="url(#glowSoft2)"/>
+    <rect x="86"  y="0" width="80" height="14" fill="#3a5a8c" filter="url(#glowSoft2)"/>
+    <rect x="166" y="0" width="73" height="14" fill="#5c6b8a" filter="url(#glowSoft2)"/>
+    <rect x="239" y="0" width="51" height="14" fill="#8a94a6" filter="url(#glowSoft2)"/>
+    <rect x="290" y="0" width="2"  height="14" rx="1" fill="#00c8ff"/>
+  </g>
+
+  <!-- Leyenda: dos columnas -->
+  <g font-family="'Courier New', Consolas, monospace" font-size="13" font-weight="bold">
+    <!-- Columna izquierda -->
+    <circle cx="30" cy="90" r="5" fill="#0047ab" filter="url(#glowSoft2)"/>
+    <text x="42" y="94" fill="#9aa4bf">HTML</text>
+    <text x="42" y="109" fill="#3a86ff" filter="url(#glowSoft2)">29.37%</text>
+
+    <circle cx="30" cy="128" r="5" fill="#3a5a8c" filter="url(#glowSoft2)"/>
+    <text x="42" y="132" fill="#9aa4bf">PYTHON</text>
+    <text x="42" y="147" fill="#6b8cc4" filter="url(#glowSoft2)">27.45%</text>
+
+    <circle cx="30" cy="166" r="5" fill="#5c6b8a" filter="url(#glowSoft2)"/>
+    <text x="42" y="170" fill="#9aa4bf">C++</text>
+    <text x="42" y="185" fill="#8a9ac0" filter="url(#glowSoft2)">24.90%</text>
+
+    <!-- Columna derecha -->
+    <circle cx="180" cy="90" r="5" fill="#8a94a6" filter="url(#glowSoft2)"/>
+    <text x="192" y="94" fill="#9aa4bf">TEX</text>
+    <text x="192" y="109" fill="#b3bbcf" filter="url(#glowSoft2)">18.19%</text>
+
+    <circle cx="180" cy="128" r="5" fill="#00c8ff" filter="url(#glowSoft2)"/>
+    <text x="192" y="132" fill="#9aa4bf">C</text>
+    <text x="192" y="147" fill="#00c8ff" filter="url(#glowSoft2)">0.09%</text>
+  </g>
+</svg>
