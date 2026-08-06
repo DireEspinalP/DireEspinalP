@@ -15,10 +15,11 @@ Soy estudiante de **Ciencias de la Computación** en la **Universidad Nacional d
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src= "https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white">
- 
-![GitHub stats](https://github-stats-extended.vercel.app/api?username=DireEspinalP&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=DireEspinalP&layout=compact&theme=tokyonight&hide_border=true)
+ <!--![GitHub stats](https://github-stats-extended.vercel.app/api?username=DireEspinalP&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=DireEspinalP&layout=compact&theme=tokyonight&hide_border=true)  -->
 
+![GitHub Stats](https://raw.githubusercontent.com/DireEspinalP/DireEspinalP/main/github_stats_led_bluegray.svg)
+![Top Languages](https://raw.githubusercontent.com/DireEspinalP/DireEspinalP/main/top_langs_led_bluegray.svg)
 ![Snake animation](https://raw.githubusercontent.com/DireEspinalP/DireEspinalP/output/github-snake-dark.svg)
 
 
