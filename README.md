@@ -1,26 +1,45 @@
-<h1 align="center"><b>Hola, soy Dire Daniel </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-<!--  -->
-<img align="right" width=280px alt="Unicorn" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGY5bmY2bWFiZHJ3ZmU0OXdnbGd5NGZydHY2NGl5MjR4Nzhzamc3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lRLzrbhmh5pFf4jOga/giphy.gif" />
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDM5bDhqZ3l1MHB2ZmY3azZlazlmanprYzE5NXJsZ2cxa2dzeDZpZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VfrLCmybNyDcVc5lfU/giphy.gif" width="40px">&nbsp;***Acerca de mí***
+<img width="1000" height="300" alt="Captura de pantalla 2026-08-07 014720" src="https://github.com/user-attachments/assets/a9514e29-e836-48b8-a631-f82736994fb2" />
 
-Soy estudiante de **Ciencias de la Computación** en la **Universidad Nacional de Ingeniería** (UNI) de <img src="https://flagcdn.com/w40/pe.png" alt="Peru" width="20"/> Peru, y actualmente estoy en mi TERCER CICLO de la carrera. En este momento estoy profundizando mis conocimientos sobre programación y fundamentos de las ciencias de la computación, desarrollando habilidades que me permitirán seguir creciendo académica y profesionalmente. Me motiva aprender constantemente, enfrentar nuevos retos y participar en proyectos que me ayuden a mejorar como futuro profesional.
+Soy estudiante de **CIENCIA DE LA COMPUTACIÓN** en la **Universidad Nacional de Ingeniería** (UNI) de <img src="https://flagcdn.com/w40/pe.png" alt="Peru" width="20"/> Perú, y actualmente estoy en mi **TERCER CICLO** de la carrera.
 
-## Mis habilidades incluyen
+En este momento estoy profundizando mis conocimientos sobre programación y fundamentos de las ciencias de la computación, desarrollando habilidades que me permitirán seguir creciendo académica y profesionalmente. Me motiva aprender constantemente, enfrentar nuevos retos y participar en proyectos que me ayuden a mejorar como futuro profesional.
 
-<h4> Lenguajes </h4>
-<span> 
+
+
+## Lenguajes de Programacion:
+<span>
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src= "https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white">
-  
+  <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white">
+</span>
+
+## Estadísticas de GitHub
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=DireEspinalP&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" />
+  <img width="49%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=DireEspinalP&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Dire's GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=DireEspinalP&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=430" />
+  <img width="50%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=DireEspinalP&layout=compact&langs_count=8&hide_border=true&title_color=0891B2&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Top languages" />
+</picture>
+
+<!-- 
 ![GitHub stats](https://github-stats-extended.vercel.app/api?username=DireEspinalP&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=DireEspinalP&layout=compact&theme=tokyonight&hide_border=true) 
-<!-- ![GitHub Stats](https://raw.githubusercontent.com/DireEspinalP/DireEspinalP/main/github_stats_led_bluegray.svg)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=DireEspinalP&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Stats](https://raw.githubusercontent.com/DireEspinalP/DireEspinalP/main/github_stats_led_bluegray.svg)
 ![Top Languages](https://raw.githubusercontent.com/DireEspinalP/DireEspinalP/main/top_langs_led_bluegray.svg)
-![Snake animation](https://raw.githubusercontent.com/DireEspinalP/DireEspinalP/output/github-snake-dark.svg) -->
+
+<img align="right" width=280px alt="Unicorn" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGY5bmY2bWFiZHJ3ZmU0OXdnbGd5NGZydHY2NGl5MjR4Nzhzamc3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lRLzrbhmh5pFf4jOga/giphy.gif" />
+-->
+
+
+
+![Snake animation](https://raw.githubusercontent.com/DireEspinalP/DireEspinalP/output/github-snake-dark.svg) 
 
 
 
@@ -46,6 +65,5 @@ Soy estudiante de **Ciencias de la Computación** en la **Universidad Nacional d
 <a href="https://www.linkedin.com/in/dire-daniel-espinal-pecho-369a70386/" >
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:050505,50:6d28d9,100:a855f7"/>
 
