@@ -17,25 +17,18 @@ En este momento estoy profundizando mis conocimientos sobre programación y fund
 </span>
 
 ## Estadísticas de GitHub
-
+<!--
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=DireEspinalP&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500&cache_seconds=21600" />
-  <img width="49%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=DireEspinalP&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&card_width=500&cache_seconds=21600" alt="Dire's GitHub stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=DireEspinalP&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500&cache_seconds=300" />
+  <img width="49%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=DireEspinalP&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&card_width=500&cache_seconds=300" alt="Dire's GitHub stats" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=DireEspinalP&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=430&cache_seconds=21600" />
-  <img width="50%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=DireEspinalP&layout=compact&langs_count=8&hide_border=true&title_color=0891B2&text_color=0F172A&bg_color=FFFFFF&card_width=500&cache_seconds=21600" alt="Top languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=DireEspinalP&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=430&cache_seconds=300" />
+  <img width="50%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=DireEspinalP&layout=compact&langs_count=8&hide_border=true&title_color=0891B2&text_color=0F172A&bg_color=FFFFFF&card_width=500&cache_seconds=300" alt="Top languages" />
 </picture>
-<!-- 
+-->
 ![GitHub stats](https://github-stats-extended.vercel.app/api?username=DireEspinalP&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=DireEspinalP&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Stats](https://raw.githubusercontent.com/DireEspinalP/DireEspinalP/main/github_stats_led_bluegray.svg)
-![Top Languages](https://raw.githubusercontent.com/DireEspinalP/DireEspinalP/main/top_langs_led_bluegray.svg)
-
-<img align="right" width=280px alt="Unicorn" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGY5bmY2bWFiZHJ3ZmU0OXdnbGd5NGZydHY2NGl5MjR4Nzhzamc3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lRLzrbhmh5pFf4jOga/giphy.gif" />
--->
-
 
 
 ![Snake animation](https://raw.githubusercontent.com/DireEspinalP/DireEspinalP/output/github-snake-dark.svg) 
