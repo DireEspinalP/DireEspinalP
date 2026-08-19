@@ -28,7 +28,7 @@ En este momento estoy profundizando mis conocimientos sobre programación y fund
 </picture>
 -->
 ![GitHub stats](https://github-stats-extended.vercel.app/api?username=DireEspinalP&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=DireEspinalP&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=DireEspinalP&layout=compact&theme=tokyonight&hide_border=true)
 
 
 ![Snake animation](https://raw.githubusercontent.com/DireEspinalP/DireEspinalP/output/github-snake-dark.svg) 
